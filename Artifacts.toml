@@ -1,160 +1,160 @@
 [[libsixel]]
 arch = "aarch64"
-git-tree-sha1 = "943908132aeaa9aabbc187ffe6005b79e58e87ee"
+git-tree-sha1 = "b1311ceac36e51374070911a8262fc3502ecd10a"
 os = "macos"
 
     [[libsixel.download]]
-    sha256 = "2368aa4d1d083ad46a286cd05395477171c18c554b6b23c1a80c1da7198242c8"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.aarch64-apple-darwin.tar.gz"
+    sha256 = "e5a06375fdc616a435a75740bfa66d633713a7d75536248056ea2eaff3ea4c95"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.aarch64-apple-darwin.tar.gz"
 [[libsixel]]
 arch = "aarch64"
-git-tree-sha1 = "c12037b7e17b1c419ba7a52013741e1c3f4d8bb4"
+git-tree-sha1 = "81cf12d901ea115590a95566a877fba116a08586"
 libc = "glibc"
 os = "linux"
 
     [[libsixel.download]]
-    sha256 = "75df0615f4a730aba1cc5279ce8d0c42c769f52e6a2d5f5c6b0c7880207a7fda"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.aarch64-linux-gnu.tar.gz"
+    sha256 = "191af733b50d73b7fe2515feec00a2b746cf039a0d6ffff990571c6a1bef7670"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.aarch64-linux-gnu.tar.gz"
 [[libsixel]]
 arch = "aarch64"
-git-tree-sha1 = "5b87766396a83e250a900eacad1574ebea043cd6"
+git-tree-sha1 = "febe3960a2edb2255f145a5ae42e1e9a4f66a942"
 libc = "musl"
 os = "linux"
 
     [[libsixel.download]]
-    sha256 = "79ef57004f6a2fd38bacb828d113697954c9417e06c81385637ab798d12ef41e"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.aarch64-linux-musl.tar.gz"
+    sha256 = "000cae59ecb1b4b9398c56fa993c96c046af08e0c4375d0a89e0fcfe1d4855cc"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.aarch64-linux-musl.tar.gz"
 [[libsixel]]
 arch = "aarch64"
-git-tree-sha1 = "6e0872968d005236c39f1c247ccbd14581ec4b85"
+git-tree-sha1 = "3e079ed2f097714a0b9fd97ec309ed3e71d377fd"
 os = "freebsd"
 
     [[libsixel.download]]
-    sha256 = "2e407508111e61e12db012b5e1acf27bdccbd346950bbadb57da561bc5518970"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "a25014a2bee98a264b981f7b940933b58b28705d9dbdfa52a452e7cc1c7f0ef0"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.aarch64-unknown-freebsd.tar.gz"
 [[libsixel]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f7b7cc8573d08d925e94dcf8112e270b12bf7ab5"
+git-tree-sha1 = "785d5646a7bf73c61fd3828607ef5c3066b12240"
 libc = "glibc"
 os = "linux"
 
     [[libsixel.download]]
-    sha256 = "29acfa2015e0fa1d83dd9b9ee5e686d977ec715d7742728e9695891642621d76"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "d097e91614fe72b04ef51ebf82cc2384218c8ea346209b3a70d9cf8cd4aeb1b9"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.armv6l-linux-gnueabihf.tar.gz"
 [[libsixel]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "ce829de46f20779fa9bc5cb3b0b26c37ab60d7c0"
+git-tree-sha1 = "18acdd6136916e6f2096f06ef8d093bb6c3d8647"
 libc = "musl"
 os = "linux"
 
     [[libsixel.download]]
-    sha256 = "c323b1163f81128e94c35bf18ded369d53fbca65b339385fbbb0d4a1e9a4d0f9"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "47de28220bdaa2ad80e7e6139f306b446434ae8c9b2dfad47f1294bc6a317a30"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.armv6l-linux-musleabihf.tar.gz"
 [[libsixel]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "d3317653ba8fc1c82f808d1668bf1d281e4004ad"
+git-tree-sha1 = "3848243ce3c07247563e05271beea14b617584a0"
 libc = "glibc"
 os = "linux"
 
     [[libsixel.download]]
-    sha256 = "dae9600d338d8d50cd5b95d1c825aebc105181ada212b8bd5d174b4639cd8f73"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "176481b80e095f219bab33572e4cd1e9b70dd623e4d538e8f4ceb3cafeb89d9c"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.armv7l-linux-gnueabihf.tar.gz"
 [[libsixel]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1f70b82ae86bf038e5ecd025e57bbc5bd55ad9f8"
+git-tree-sha1 = "d629f7197f106f4c731a863ce193da506eb760ae"
 libc = "musl"
 os = "linux"
 
     [[libsixel.download]]
-    sha256 = "783172a8666f24f2fc0d93c6f818bb5a69e732d75e68ae97956ab0df3fde83b2"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "b418b6ae3bbce011a390ffe556bf5fb6d27fff30de8c987890993cc7ad7da36e"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.armv7l-linux-musleabihf.tar.gz"
 [[libsixel]]
 arch = "i686"
-git-tree-sha1 = "ef9e6104be9c784e59ae1fe4591f43e0a5861ec9"
+git-tree-sha1 = "f68249c00ea7c9ae5cf1df6f4ec3afff90aabb0f"
 libc = "glibc"
 os = "linux"
 
     [[libsixel.download]]
-    sha256 = "5ec5457bd4b3a0099d566e3bce6db00555117b5df7d630ac57d06c4fa2fab39d"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.i686-linux-gnu.tar.gz"
+    sha256 = "f6c573af3cd28a72ca841efc59a89d1036b489facf12b7cbec0f940d7bd42450"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.i686-linux-gnu.tar.gz"
 [[libsixel]]
 arch = "i686"
-git-tree-sha1 = "f57addebcb0e7779a59428b88596464799d94f98"
+git-tree-sha1 = "b5750f10fc9eb4479fdb53a8b994f5c29c50779e"
 libc = "musl"
 os = "linux"
 
     [[libsixel.download]]
-    sha256 = "5c35cdbc43e6bcd10e597493feaf4340192171ac91f4b911b24da4191b37ccc6"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.i686-linux-musl.tar.gz"
+    sha256 = "9e18bb69431621cec555eb8371ab9aba3d4071b9d336c5aa6d9ae9633e42e94a"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.i686-linux-musl.tar.gz"
 [[libsixel]]
 arch = "i686"
-git-tree-sha1 = "bdc7cfef8681fa5b7715e0ff54033eeaa6682cd0"
+git-tree-sha1 = "366d42be0d38e4a4f790cb4e2a51011f0378a76d"
 os = "windows"
 
     [[libsixel.download]]
-    sha256 = "d2a771e287a96186b06ef88fddca163fc61450d97649bc15451c79fd4bb29819"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.i686-w64-mingw32.tar.gz"
+    sha256 = "33ce580217e4899608d80bd442bbff816f61b4e33f391e8a54efd6e0668df257"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.i686-w64-mingw32.tar.gz"
 [[libsixel]]
 arch = "powerpc64le"
-git-tree-sha1 = "6f6212760f152fa51100d8f30da5e067d492ab1f"
+git-tree-sha1 = "6cf20d4bd77e57f8c2cb266fd7d3e8dd272401a7"
 libc = "glibc"
 os = "linux"
 
     [[libsixel.download]]
-    sha256 = "ae7f6098fffdcc092431fa659663c35de944f1fe34c06f683e4c36ba4ca45138"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "ecf1215f669951ea638ef845cf474f0deec9abf624463e1ad4ba48b2b6386626"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.powerpc64le-linux-gnu.tar.gz"
 [[libsixel]]
 arch = "riscv64"
-git-tree-sha1 = "a5e78819f94c2154b7d4b365a12cd857773be5ec"
+git-tree-sha1 = "41fb67103591de6edd8ec591220ad71f07a11ada"
 libc = "glibc"
 os = "linux"
 
     [[libsixel.download]]
-    sha256 = "23d865c3ab61daadac3648b25ba4861bdfad8c2c74c8dca717743133489c4726"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.riscv64-linux-gnu.tar.gz"
+    sha256 = "e4d576f71be304616496df2eb0cc0544285f8353624e29b5bcff729bf9c8e975"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.riscv64-linux-gnu.tar.gz"
 [[libsixel]]
 arch = "x86_64"
-git-tree-sha1 = "5b6b7f7e5c8c987bdc6a0e60f2fb235f9eb71966"
+git-tree-sha1 = "bcdd0ac4f70ea2da1eb694c4d570b09bf5ddb202"
 os = "macos"
 
     [[libsixel.download]]
-    sha256 = "61ac066549bbdef830e4ac5967b47a075a8aabf1ecb1ad4fb770de893c117ff8"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.x86_64-apple-darwin.tar.gz"
+    sha256 = "e1952557fcc849db3a3bd1b1b6e53e9e6e3d67f5ad89fa028ec1fef9dbae7d12"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.x86_64-apple-darwin.tar.gz"
 [[libsixel]]
 arch = "x86_64"
-git-tree-sha1 = "a14b13b8e5ec1c68ee40d979ce2fc42e2faca914"
+git-tree-sha1 = "696cbadef3c01962741b8d1b79bbab0977cffb40"
 libc = "glibc"
 os = "linux"
 
     [[libsixel.download]]
-    sha256 = "3db487930298136ab3c67198dec28a1873898320c49785e20bb35b997c854a66"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "a8865c3a88568607716811f68f7e44b40d27ad0c034cc779fd5cabf86d483aa6"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.x86_64-linux-gnu.tar.gz"
 [[libsixel]]
 arch = "x86_64"
-git-tree-sha1 = "536a8847a14ed3a1b1573c54f280354d1983ade4"
+git-tree-sha1 = "87b6a3201d89bbb73a24bbbb5e9685cd7e060cb4"
 libc = "musl"
 os = "linux"
 
     [[libsixel.download]]
-    sha256 = "d848beada171c2da24ba039412f00f2ed64b509ade326ecde3a1fe770a1b0466"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.x86_64-linux-musl.tar.gz"
+    sha256 = "e33492d8db827ebac315263280f250ee0622e72d03cd3187fa0eb9bea4cf2a79"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.x86_64-linux-musl.tar.gz"
 [[libsixel]]
 arch = "x86_64"
-git-tree-sha1 = "73252b10605b0f8ffed2cda3807c7fcf6dcde01f"
+git-tree-sha1 = "144a7459c7bbc584608b5e0ee107c015ca6c87a0"
 os = "freebsd"
 
     [[libsixel.download]]
-    sha256 = "2d9122823ef72d39c6c4b63fbe5cf34daf7ffb3c071bd4c7ef41a3fb925901b8"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "716b1ae9c46166de9d57b75d1409305b0f99d44695bda7c8924a0b489334f88d"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.x86_64-unknown-freebsd.tar.gz"
 [[libsixel]]
 arch = "x86_64"
-git-tree-sha1 = "d392be89411752781b772049ff2f7a9df17fc106"
+git-tree-sha1 = "cc3b54326204ce6c4c4a72b79d9117b0879f18e3"
 os = "windows"
 
     [[libsixel.download]]
-    sha256 = "96e3c48a2e6d5dea38aca34bee16ae90e1edba66c9c16200e77be02151071160"
-    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+0/libsixel.v1.10.4.x86_64-w64-mingw32.tar.gz"
+    sha256 = "c40a80c64eb34c4fafefb24c3d91dddc9a73a9ffe2747f86813f17931c0dba2a"
+    url = "https://github.com/JuliaBinaryWrappers/libsixel_jll.jl/releases/download/libsixel-v1.10.4+1/libsixel.v1.10.4.x86_64-w64-mingw32.tar.gz"
