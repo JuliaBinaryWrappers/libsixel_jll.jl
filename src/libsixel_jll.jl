@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("libsixel")
-JLLWrappers.@generate_main_file("libsixel", UUID("075b6546-f08a-558a-be8f-8157d0f608a5"))
+JLLWrappers.@generate_main_file("libsixel", Base.UUID("075b6546-f08a-558a-be8f-8157d0f608a5"))
 end  # module libsixel_jll
